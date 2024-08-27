@@ -17,7 +17,6 @@ tags:
 I am honored to be your host this month. This month, I’d like to ask everyone to blog about SQL Server Defaults. While SQL Server CAN be run with just the default settings, doing so is far from ideal. As we progress through our careers, many of us build lists of things we change. Let’s blog about those! And don’t think this month’s topic is constrained to just the SQL Server engine. SSIS &amp; SSAS are absolutely fair game as well. SQL Server developer tools – sure! Want to take a different spin on “defaults,” go right ahead and be creative!
 
 Need Ideas?
-
-Do you have a checklist of “always change” settings? Blog about that!  
-Do you have a preferred method for mass-deploying your changes? Blog about that!  
-Do you have a specific default setting you ALWAYS change? Deep dive &amp; blog about that!
+- Do you have a checklist of “always change” settings? Blog about that!  
+- Do you have a preferred method for mass-deploying your changes? Blog about that!  
+- Do you have a specific default setting you ALWAYS change? Deep dive &amp; blog about that!

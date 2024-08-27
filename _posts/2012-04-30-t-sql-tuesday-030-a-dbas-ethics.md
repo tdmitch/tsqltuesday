@@ -26,17 +26,12 @@ So here is where that leaves us:
 
 For this month’s t-sql Tuesday question I wanted to highlight the need for Ethics in our industry. Don’t consumers and business owners have to trust someone at some time with their data? This month, take time to participate by talking about DBA ethics. I really hope to see someone address topics such as:
 
- Should we have an ethics statement?
-
- Have ethics issues impacted you? What did you do about it?
-
- Security Audits: how do you police what you and others are doing in the database?
-
- Does a Code of Ethics mean anything to anyone? How do we as a community enforce a Code of Ethics?
-
- Do you have an issue with this [Code of Ethics](http://www.sans.org/security-resources/ethics.php)?
-
- What do you believe our Code of Ethics should say if we the SQL Server Community have one?
+- Should we have an ethics statement?
+- Have ethics issues impacted you? What did you do about it?
+- Security Audits: how do you police what you and others are doing in the database?
+- Does a Code of Ethics mean anything to anyone? How do we as a community enforce a Code of Ethics?
+- Do you have an issue with this [Code of Ethics](http://www.sans.org/security-resources/ethics.php)?
+- What do you believe our Code of Ethics should say if we the SQL Server Community have one?
 
 Have fun, but take the time to dig deep and do some real soul searching. I know with large number of really smart professionals that we have in our community we can think of something. I will do up a summary once I have returned from my trip that week, but to be honest I hope this discussion goes on long after May 8<sup>th</sup>.
 

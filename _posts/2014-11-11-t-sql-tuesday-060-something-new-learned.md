@@ -14,7 +14,7 @@ tags:
 
 [Invitation](https://chrisyatessql.wordpress.com/2014/11/11/t-sql-tuesday-60-something-new-learned-2/) and [roundup](http://chrisyatessql.wordpress.com/2014/11/16/t-sql-tuesday-60-roundup-step-right-up/#comments) from [Chris Yates](http://www.toadworld.com/members/chris-yates).
 
-<div class="site" id="page"><div class="site-content" id="content"><div class="content-area" id="primary"><article class="post-1022 post type-post status-publish format-standard hentry category-sqlserverpedia-syndication category-t-sql-tuesday category-uncategorized tag-sqlserver tag-tsql2sday no-featured-image" id="post-1022"><div class="entry-body"><div class="entry-content">So, here it is. I put the challenge out to discuss something new learned last week. I was fortunate enough to attend the PASS Summit last week in Seattle. While this post will not be my summarization of that trip (that will be another post) I did have several take-a-ways. I sat in some stellar sessions with some renowned speakers.
+So, here it is. I put the challenge out to discuss something new learned last week. I was fortunate enough to attend the PASS Summit last week in Seattle. While this post will not be my summarization of that trip (that will be another post) I did have several take-a-ways. I sat in some stellar sessions with some renowned speakers.
 
 However, one re-occurring theme kept coming to my mind – the people. Listen, I’ve been through a lot over my 15 years with SQL, and my 3 years actively involved in the community and this past week affirmed something for me. LISTEN to the people.
 
@@ -33,5 +33,3 @@ You don’t have to travel all the way to Seattle to learn; no you have learning
 I can tell you from experience and the roller coaster ride I’ve been on for the past three years that you will not regret it. Strive for excellence and provide that leadership through service that the community seeks. Yeah, I may be a tad passionate about what I do; you’ll find that kind of trait with others in the community.
 
 So, I’ve challenged myself……..will you?
-
-</div></div></article></div></div></div>
