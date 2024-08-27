@@ -13,9 +13,7 @@ tags:
 
 [Invitation](http://devnambi.com/2014/tsql-tuesday/) and [wrap](http://devnambi.com/2014/tsql-tuesday-summary/) from [Dev Nambi](http://devnambi.com).
 
-<div id="wrap"><div class="container">It’s hard to rock the boat.  
-It’s hard to ask the basic questions that everybody knows.  
-It’s hard to slow down and ask for clarification.
+It’s hard to rock the boat. It’s hard to ask the basic questions that everybody knows. It’s hard to slow down and ask for clarification.
 
 So, we improvise. We guess: things that are accepted as true, without proof. We often forget our assumptions, or make them instinctively.
 
@@ -33,5 +31,3 @@ For example:
 Your assignment for this month is to write about a big assumption you encounter at work, one that people are uncomfortable talking about. Every team has an [elephant in the room](http://en.wikipedia.org/wiki/Elephant_in_the_room).
 
 **What happens if these big guesses aren’t true?**
-
-</div></div>

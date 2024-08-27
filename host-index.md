@@ -46,7 +46,7 @@ A list of people hosting and their totals. If you notice anything missing, conta
 
 [Bradley Balls](http://www.sqlballs.com/) – Hosted: 2 [(044](../044), [074](../074))
 
-[Brent Ozar ](https://www.brentozar.com/archive/author/brento/)– Hosted: 3 ([086](../086), [136](../086), [171](../171))
+[Brent Ozar ](https://www.brentozar.com/archive/author/brento/)– Hosted: 3 ([086](../086), [136](../136), [171](../171))
 
 [Camila Henrique](https://camilahenrique.com/) – Hosted: 1 ([149](../149))
 

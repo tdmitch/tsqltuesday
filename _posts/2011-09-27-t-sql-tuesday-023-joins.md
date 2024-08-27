@@ -4,7 +4,7 @@ title: 'T-SQL Tuesday #023 &#8211; Joins'
 date: '2011-09-27T16:21:20+00:00'
 author: way0utwest
 layout: post
-permalink: '/023
+permalink: '/023'
 categories:
     - Invitations
 tags:
