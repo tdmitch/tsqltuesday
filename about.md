@@ -17,3 +17,5 @@ Eventually Adam asked me to host the site, and here it is.
 ![Steve Jones Avatar](/assets/img/SteveJones_avatar.png)
 
 I’m Steve Jones, founder of [SQL Server Central](https://www.sqlservercentral.com/), President of the [SQL Saturday Corporation](https://blog.sqlsaturday.com/), longtime DBA, developer and general IT, technologist. I currently blog at [The Voice of the DBA](http://www.voiceofthedba.com/).
+
+Ping me on X/Twitter ([@way0utwest](http://www.x.com/way0utwest)) or [LinkedIn](https://www.linkedin.com/in/way0utwest) if you want to host, have questions, or anything else.
