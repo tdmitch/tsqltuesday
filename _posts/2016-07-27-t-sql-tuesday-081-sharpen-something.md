@@ -16,7 +16,9 @@ tags:
 
 It has now been 30 months since the last time I hosted a TSQL Tuesday, that was TSQL Tuesday 51. I [recapped that event here](http://bit.ly/1oQkFTz) with the [original invite here](http://bit.ly/1ikg6fJ). I can’t believe it has been that long since I last hosted. It only seems like yesterday.
 
-![sqlskillsharpener_pig](http://jasonbrimhall.info/wp-content/uploads/2016/07/sqlskillsharpener_pig.png)Coming into the present day, we are now at TSQL Tuesday 81. For this month, I would like to try and up the ante a bit. Usually we only get about a weeks notice prior to the event to think about the article to write for the event.
+![sqlskillsharpener_pig](http://jasonbrimhall.info/wp-content/uploads/2016/07/sqlskillsharpener_pig.png)
+
+Coming into the present day, we are now at TSQL Tuesday 81. For this month, I would like to try and up the ante a bit. Usually we only get about a weeks notice prior to the event to think about the article to write for the event.
 
 This time, I want to invite everybody just a little bit sooner and will follow-up with a reminder seven days prior to the event. The reason I want to do this is because I think this may be a touch more difficult this time.
 

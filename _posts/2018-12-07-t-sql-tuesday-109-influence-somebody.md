@@ -16,11 +16,11 @@ tags:
 
 ## T-SQL Tuesday 109: Influence Somebody Invite
 
-In [November 2017](https://sqlonice.com/tsql-tuesday-96-folks-who-have-made-a-difference/), Ewald Cress ([b](https://sqlonice.com/) | [t](https://twitter.com/sqlOnIce)) invited everybody to talk about and basically give thanks to people that have helped impact their careers or lives. Check out the [roundup here](https://sqlonice.com/tsql-tuesday-96-round-up/).
+In [November 2017](https://sqlonice.com/tsql-tuesday-96-folks-who-have-made-a-difference/), Ewald Cress ([b](https://sqlonice.com/) / [t](https://twitter.com/sqlOnIce)) invited everybody to talk about and basically give thanks to people that have helped impact their careers or lives. Check out the [roundup here](https://sqlonice.com/tsql-tuesday-96-round-up/).
 
-In [December 2017](https://curiousaboutdata.com/2017/12/04/t-sql-tuesday-97-setting-learning-goals-for-2018/), Mala Mahadevan ([b](https://curiousaboutdata.com/) | [t](https://twitter.com/sqlmal)) invited everybody to set goals for themselves. These goals were supposed to be about learning. But when you get down to the nitty gritty, anything that helps build character and career really comes from something that must be learned. It all starts with a bit of introspection. It is this introspection that I ask you to use as a building block for the party this month.
+In [December 2017](https://curiousaboutdata.com/2017/12/04/t-sql-tuesday-97-setting-learning-goals-for-2018/), Mala Mahadevan ([b](https://curiousaboutdata.com/) / [t](https://twitter.com/sqlmal)) invited everybody to set goals for themselves. These goals were supposed to be about learning. But when you get down to the nitty gritty, anything that helps build character and career really comes from something that must be learned. It all starts with a bit of introspection. It is this introspection that I ask you to use as a building block for the party this month.
 
-Lastly, in [May 2018](https://scribnasium.com/2018/05/giving-back-t-sql-tuesday-102-invite/), Riley Major ([b](https://scribnasium.com/) | [t](https://twitter.com/RileyMajor)) asked everybody to reflect a bit on the theme from Ewald. This time though, the task was to give back to the community. Pay it forward, if you will, given that you had previously benefited from the kindness of somebody else.
+Lastly, in [May 2018](https://scribnasium.com/2018/05/giving-back-t-sql-tuesday-102-invite/), Riley Major ([b](https://scribnasium.com/) / [t](https://twitter.com/RileyMajor)) asked everybody to reflect a bit on the theme from Ewald. This time though, the task was to give back to the community. Pay it forward, if you will, given that you had previously benefited from the kindness of somebody else.
 
 ## Invitation
 

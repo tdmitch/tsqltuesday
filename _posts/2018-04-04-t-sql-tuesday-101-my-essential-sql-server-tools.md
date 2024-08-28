@@ -22,4 +22,4 @@ Basically I think, that by establishing awareness about what kinds of tools that
 
 Additionally, you *can* (read: should) share how you came to depend on said tool – and of course you are encouraged to give credit, where credit is due in terms of making you aware of the tool.
 
-Another approach for this topic, is to approach it as kind of *A Day in the Life of* kind of blog post, as [has been done before](http://erinstellato.com/2012/07/tsql-tuesday-round-up/) by Erin Stellato ([b](http://erinstellato.com)|[l](https://www.linkedin.com/in/erinstellato)|[t](http://www.twitter.com/erinstellato)). Writing with the specific angle to describing how your everyday is made easier by the use of your tool stack.
+Another approach for this topic, is to approach it as kind of *A Day in the Life of* kind of blog post, as [has been done before](http://erinstellato.com/2012/07/tsql-tuesday-round-up/) by Erin Stellato ([b](http://erinstellato.com)|[l](https://www.linkedin.com/in/erinstellato)/[t](http://www.twitter.com/erinstellato)). Writing with the specific angle to describing how your everyday is made easier by the use of your tool stack.
