@@ -20,7 +20,7 @@ What are those little short bits of code that you can’t live without? I’m ta
 
 e.g. I manage a lot of SQL agent jobs. Quite often, I need to find out which job has a certain t-sql string in the command so I’ll run:
 
-<div class="wp-block-group"><div class="wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow">```
+```
 SELECT * from msdb..sysjobs sj 
 JOIN msdb..sysjobsteps sjs 
 on sj.job_id = sjs.job_id 
