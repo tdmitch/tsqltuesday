@@ -1,13 +1,18 @@
 ---
-layout: home
-title: "T-SQL Tuesday"
+id: 4676
+title: 'T-SQL Tuesday #178: A Recent Technical Issue You Resolved'
+date: '2024-09-03T00:02:00+00:00'
+author: way0utwest
+layout: post
+permalink: '/178'
+categories:
+    - Invitations
+tags:
+    - '2024'
+    - 'database development'
+    - 'database administration'
 ---
 
-## The Current Invitation
-
-The current invitation (September 2024) is for T-SQL Tuesday #178. The next invitation should be released on October 1.
-
-## T-SQL Tuesday #177: Managing database code
 [Invitation ](https://dbanuggets.com/2024/09/03/t-sql-tuesday-178-invitation-recent-technical-challenge-you-resolved/) from [Deepthi Goguri](https://dbanuggets.com/)
 
 Have you had any recent technological problems at work that you were able to fix? You might have tried very hard for days to figure out the answer to the technical issue you faced, but it turns out that a minor modification you made may have resolved the issue. Alternatively, the error message you see might be completely different from the solution you adopted to resolve the issue. Please blog for me about any problem, no matter how big or minor, that you may have encountered lately. I’d like to see all kinds of issues you’ve faced and how you fixed them.
