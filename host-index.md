@@ -212,6 +212,8 @@ Louis Davidson – Hosted: 1 ([176](../176))
 
 [Tamara Clark](https://clarkcreations.net/blog/) – Hosted: 1 ([129](../129))
 
+[Tim Mitchell](https://www.timmitchell.net) - Hosted: 1 ([179](../179))
+
 [TJay Belt](https://tjaybelt.blogspot.com/) – Hosted: 1 ([141](../141))
 
 [Todd Kleinhans](https://toddkleinhans.wordpress.com/) – Hosted: 2 ([113](../113), [172](../172))
