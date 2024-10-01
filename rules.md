@@ -10,7 +10,7 @@ The following is taken from Adam Machanic’s original post on the Rules of Enga
 
 Before I present the rules, I’d like to take a moment to describe the **purpose** of all of this: T-SQL Tuesday is designed to **strengthen the SQL Server blog community** in two different ways. First and most obvious, it **generates blog posts**, and depending on the topic these tend to be educational in nature. More education means a stronger community, and that’s what we’re all about. Second, and a bit more subtly, T-SQL Tuesday was conceived to strengthen search engine reputation by **creating lots of links between blogs**. Search engines like pages that get linked to a lot. So we generate lots of links to lots of great content, and then that great content floats up to the top as people search for stuff. That’s a win-win in my book and something to keep in mind if you either host or participate in a T-SQL Tuesday.
 
-(Aside: Does driving up your blog traffic sound good to you? [Request to host](http://tsqltuesday.com/2018/07/05/request-to-host-t-sql-tuesday/). See below for the rules. I am literally always looking for hosts, *especially* new blogger hosts.)
+(Aside: Does driving up your blog traffic sound good to you? [Request to host](http://tsqltuesday.com/2018/requesttohost/). See below for the rules. I am literally always looking for hosts, *especially* new blogger hosts.)
 
 Now that that’s out of the way, without further ado, I present…
 
@@ -19,7 +19,7 @@ Now that that’s out of the way, without further ado, I present…
 1. Each month, a host blogger will be assigned to create a T-SQL Tuesday event on his or her blog.
 2. Creating an event entails several steps: 
     1. First the host blogger must be assigned to a month. 
-        1. Getting a month assigned means [contacting Steve Jones](http://tsqltuesday.com/2018/07/05/request-to-host-t-sql-tuesday/) and asking to host.
+        1. Getting a month assigned means [contacting Steve Jones](http://tsqltuesday.com/requesttohost/) and asking to host.
         2. Prior to writing to me you must have participated in at least two prior T-SQL Tuesday events as a blogger.
         3. Prior to writing to me your blog must show decent on-going activity. This means, for established blogs, at least 6 technical posts a year. For newer blogs, I expect to see at least one technical post a month sustained for at least six months.
         4. Assuming that everything checks out, I will give you the next available month. Usually things are booked out four to six months in advance.

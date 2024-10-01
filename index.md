@@ -7,7 +7,7 @@ title: "T-SQL Tuesday"
 
 The current invitation (October 2024) is for T-SQL Tuesday #179. The next invitation should be released on November 5th.
 
-## T-SQL Tuesday #177: What’s In Your Data Detective Toolkit? 
+## T-SQL Tuesday #179: What’s In Your Data Detective Toolkit? 
 [Invitation ](https://www.timmitchell.net/post/2024/10/01/t-sql-tuesday-179-whats-in-your-data-detective-toolkit/) from [Tim Mitchell](https://www.timmitchell.net/)
 
 Most of us who work with data have, at least a few times, been presented with a challenge to explore and attempt to make sense of a poorly-defined set of data. Often it’s a collection of text files or Excel documents without any context or documentation. In other cases, it’s a database with no data map or metadata to help explain the purpose of the underlying bits. Sometimes it may be even less structured than that, with the only data points provided being buried in PDF documents or some markup language.
