@@ -4,7 +4,6 @@ title: 'Request to Host T-SQL Tuesday'
 date: '2018-07-05T18:01:16+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=3757'
 permalink: '/requesttohost'
 categories:
     - Hosts
