@@ -5,17 +5,17 @@ title: "T-SQL Tuesday"
 
 ## The Current Invitation
 
-The current invitation (September 2024) is for T-SQL Tuesday #178. The next invitation should be released on October 1.
+The current invitation (October 2024) is for T-SQL Tuesday #179. The next invitation should be released on November 5th.
 
-## T-SQL Tuesday #177: Managing database code
-[Invitation ](https://dbanuggets.com/2024/09/03/t-sql-tuesday-178-invitation-recent-technical-challenge-you-resolved/) from [Deepthi Goguri](https://dbanuggets.com/)
+## T-SQL Tuesday #177: What’s In Your Data Detective Toolkit? 
+[Invitation ](https://www.timmitchell.net/post/2024/10/01/t-sql-tuesday-179-whats-in-your-data-detective-toolkit/) from [Tim Mitchell](https://www.timmitchell.net/)
 
-Have you had any recent technological problems at work that you were able to fix? You might have tried very hard for days to figure out the answer to the technical issue you faced, but it turns out that a minor modification you made may have resolved the issue. Alternatively, the error message you see might be completely different from the solution you adopted to resolve the issue. Please blog for me about any problem, no matter how big or minor, that you may have encountered lately. I’d like to see all kinds of issues you’ve faced and how you fixed them.
+Most of us who work with data have, at least a few times, been presented with a challenge to explore and attempt to make sense of a poorly-defined set of data. Often it’s a collection of text files or Excel documents without any context or documentation. In other cases, it’s a database with no data map or metadata to help explain the purpose of the underlying bits. Sometimes it may be even less structured than that, with the only data points provided being buried in PDF documents or some markup language.
 
-I’ll share my latest experience here.
+As data professionals, it often falls on us to help turn data into information and insights even with such vague sources. While an eyes-on approach to data review can work, the sheer volume of data requires that we have a set of tools to automate as much of the data discovery process as possible. We all need a good data detective toolkit to aid in solving such mysteries.
 
-The DEV and UAT migrations for the SSRS migration project I was working on recently went well, but when we opened the webpage URL, we noticed the following HTTP address problem. ReportServer services servers and databases are housed on separate servers. The servers were set up correctly, the SSRS service delegation was established, and the Report Server service accounts had the appropriate rights to the Report Server databases. Days passed before I was able to work with the Server team member to resolve the problem—that is, we missed creating an SPN for the Report Service server using the Server name. The problem was fixed by adding the SPN made for the service using HTTP and the Servername. We also had to change the authentication configuration file to RSWindowsNegotiate instead of RSWindowsNTLM.
+What’s in your data detective toolkit?
 
-Until this problem was resolved, we had seen weird errors from an application running the reports, testing the data sources showed the login failure error message – “Login failed for user ‘NT AUTHORITY\ANONYMOUS LOGON'”.
+I’m hosting this month’s T-SQL Tuesday, so here is your challenge: What’s in your data detective toolkit? Share your favorite tricks, methods, language functions (whether T-SQL, Python, or whatever), or software (open-source or commercial) that you’ve found useful in making sense of data mysteries.
 
-This article really helped us pinpoint the [issue](https://redmondmag.com/Articles/2010/08/23/Reporting-Services-Double-Hop-Authentication.aspx).
+I’ll see you back here next week for the roundup post, and I look forward to reading all your posts!
